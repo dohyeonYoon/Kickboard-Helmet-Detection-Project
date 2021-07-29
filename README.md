@@ -1,5 +1,5 @@
 # yolov4-custom-training
-google colab을 이용한 yolov4 custom dataset training
+Training yolov4 custom dataset using google colab
 
 ![test11](https://user-images.githubusercontent.com/66056440/127437775-50315941-2408-4023-8cf1-4acb22a522a8.png)
 
