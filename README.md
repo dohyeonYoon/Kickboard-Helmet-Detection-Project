@@ -13,3 +13,17 @@ The **obj.zip** file contains 908 images along with their YOLO labeled text file
 
 
 **<ins>NOTE</ins>** : The **yolov4-custom.cfg**, **obj.data**, and **obj.names** files are customized for the 2 classes I am working with. (i.e. "helmet" & "no_helmet"). You can edit these files for your custom objects.
+
+
+## My Colab notebook for training a custom Yolov4 detector
+
+https://colab.research.google.com/drive/16biTYL3mgmbJghKDcjzKArI81vnGuYZr#scrollTo=Py0DQRy4HHDH
+
+## My Medium article on this
+
+https://dohyeon.tistory.com/9?category=1006878
+
+## References
+
+[AlexeyAB GitHub](https://github.com/AlexeyAB/darknet/)
+
