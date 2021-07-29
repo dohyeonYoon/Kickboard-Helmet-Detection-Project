@@ -1,6 +1,7 @@
 # yolov4 kickboard-helmet detector
 Training yolov4 custom dataset using google colab
 
+
 ![test11](https://user-images.githubusercontent.com/66056440/127437775-50315941-2408-4023-8cf1-4acb22a522a8.png)
 
 ## **kickboard helmet detection using YOLOv4**
@@ -27,3 +28,4 @@ https://dohyeon.tistory.com/9?category=1006878
 
 [AlexeyAB GitHub](https://github.com/AlexeyAB/darknet/)
 
+![새로운 프로젝트](https://user-images.githubusercontent.com/66056440/127440620-89a0316a-5e12-4cf5-a9da-970b7fe1bc2d.gif)
