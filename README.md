@@ -28,3 +28,4 @@ https://dohyeon.tistory.com/9?category=1006878
 ## References
 
 [AlexeyAB GitHub](https://github.com/AlexeyAB/darknet/)
+"새로운 기능 추가" 
