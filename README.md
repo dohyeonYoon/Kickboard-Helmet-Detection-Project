@@ -1,7 +1,7 @@
 # yolov4 kickboard-helmet detector
 Training yolov4 custom dataset using google colab
 
-
+#readme 수정
 ![test11](https://user-images.githubusercontent.com/66056440/127437775-50315941-2408-4023-8cf1-4acb22a522a8.png)
 ![새로운 프로젝트](https://user-images.githubusercontent.com/66056440/127440655-4095ffbf-a665-4328-8a59-02dd98a2303f.gif)
 
