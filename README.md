@@ -29,4 +29,3 @@ https://dohyeon.tistory.com/9?category=1006878
 ## 참조
 
 [AlexeyAB GitHub](https://github.com/AlexeyAB/darknet/)
-"»õ·Î¿î ±â´É Ãß°¡" 
