@@ -1,7 +1,6 @@
-# yolov4 kickboard-helmet detector
-교내 전동킥보드 헬맷 단속모델 개발 프로젝트
+# 교내 전동킥보드 헬맷 단속모델 개발 프로젝트
 
-교내에서 촬영한 데이터셋을 이용해 YOLOv4 model 학습(using google colab)
+전북대학교 교내에서 촬영한 데이터셋을 이용해 YOLOv4 model 학습(using google colab)
 
 # 시연영상
 ![test11](https://user-images.githubusercontent.com/66056440/127437775-50315941-2408-4023-8cf1-4acb22a522a8.png)
@@ -19,15 +18,15 @@ The **obj.zip** file contains 908 images along with their YOLO labeled text file
 **<ins>NOTE</ins>** : The **yolov4-custom.cfg**, **obj.data**, and **obj.names** files are customized for the 2 classes I am working with. (i.e. "helmet" & "no_helmet"). You can edit these files for your custom objects.
 
 
-## My Colab notebook for training a custom Yolov4 detector
+## YOLOv4 model training을 위한 코랩노트북
 
 https://colab.research.google.com/drive/16biTYL3mgmbJghKDcjzKArI81vnGuYZr#scrollTo=Py0DQRy4HHDH
 
-## My Medium article on this
+## 사용법 설명 블로그
 
 https://dohyeon.tistory.com/9?category=1006878
 
-## References
+## 참조
 
 [AlexeyAB GitHub](https://github.com/AlexeyAB/darknet/)
 "»õ·Î¿î ±â´É Ãß°¡" 
