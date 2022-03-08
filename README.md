@@ -4,7 +4,7 @@
 
 Training yolov4 custom dataset using google colab
 
-#readme ìˆ˜ì •
+#readme
 ![test11](https://user-images.githubusercontent.com/66056440/127437775-50315941-2408-4023-8cf1-4acb22a522a8.png)
 ![ìƒˆë¡œìš´ í”„ë¡œì íŠ¸](https://user-images.githubusercontent.com/66056440/127440655-4095ffbf-a665-4328-8a59-02dd98a2303f.gif)
 
