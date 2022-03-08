@@ -1,10 +1,9 @@
 # yolov4 kickboard-helmet detector
 교내 전동킥보드 헬맷 단속모델 개발 프로젝트
 
+교내에서 촬영한 데이터셋을 이용해 YOLOv4 model 학습(using google colab)
 
-Training yolov4 custom dataset using google colab
-
-#readme
+# 시연영상
 ![test11](https://user-images.githubusercontent.com/66056440/127437775-50315941-2408-4023-8cf1-4acb22a522a8.png)
 ![ìƒˆë¡œìš´ í”„ë¡œì íŠ¸](https://user-images.githubusercontent.com/66056440/127440655-4095ffbf-a665-4328-8a59-02dd98a2303f.gif)
 
