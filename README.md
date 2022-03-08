@@ -6,16 +6,16 @@
 ![test11](https://user-images.githubusercontent.com/66056440/127437775-50315941-2408-4023-8cf1-4acb22a522a8.png)
 ![ìƒˆë¡œìš´ í”„ë¡œì íŠ¸](https://user-images.githubusercontent.com/66056440/127440655-4095ffbf-a665-4328-8a59-02dd98a2303f.gif)
 
-## **kickboard helmet detection using YOLOv4**
+# 간단 사용법
+레포지토리 내 **yolov4** 폴더는 4개의 custom file이 들어있습니다.
+(i.e. **yolov4-custom.cfg**, **obj.data**, **obj.names** and **process.py**) except **obj.zip**(labeled images). 
 
-The **yolov4** folder in this repository contains the 4 custom files needed. (i.e. **yolov4-custom.cfg**, **obj.data**, **obj.names** and **process.py**) except **obj.zip**(labeled images). 
+**obj.zip** 파일은 yolo format으로 레이블링된 텍스트 파일을 포함합니다. 
+ 
+**<ins>NOTE</ins>**
+**yolov4-custom.cfg**, **obj.data**, **obj.names** 3개의 파일을 본인이 찾고자 하는 class에 맞게 수정하여 사용하시면 됩니다.
+(제 경우 helmet, no_helmet 2가지 class 사용)
 
-
-
-The **obj.zip** file contains 908 images along with their YOLO labeled text files. I have labeled around 908 of these. 
-
-
-**<ins>NOTE</ins>** : The **yolov4-custom.cfg**, **obj.data**, and **obj.names** files are customized for the 2 classes I am working with. (i.e. "helmet" & "no_helmet"). You can edit these files for your custom objects.
 
 
 ## YOLOv4 model training을 위한 코랩노트북
